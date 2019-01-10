@@ -1,0 +1,12 @@
+{
+  "name": "oxford-comma",
+  "version": "0.1.0",
+  "description": "Make a list into an Oxford comma separated list.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "jcottrell",
+  "license": "ISC",
+  "devDependencies": {
+    "ramda": "^0.26.1"
+  }
+}
